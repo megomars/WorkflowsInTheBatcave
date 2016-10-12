@@ -56,14 +56,34 @@ It's time to take the next step in front end workflows. In the following writeup
 
 
 2. Node js
+  * Node is a platform for running Javascript applications
+  * Uses async event base model for a single thread
   * Node Plugins
 
 3. NPM
   * package.json
+  * npm install // install stuff from someones github repo after cloning
 
 4. Yeoman (Yo, Grunt, Bower)
+  * Yo is a scaffolding tool for firing up ready to use templates
+  * Grunt/Gulp is a task runner for performing automated tasks
+  * Bower is a package manager for front end dev dependencies
+
+  * npm install -g yo
+  * yo webapp
+  * npm update -g yo
+  * always work in app folder
+  * writing tests // TDD, Mocha, Chai, Jasmine
+
+  * gulp //run the project
+  * gulp serve //development build
 
 5. Writing Clean Javascript
+  * Name everything as clearly as possible
+  * Add comments where necessary
+  * Keep functions close to each Other
+  * Modularize your files
+  * SRP===DRY (don't repeat yourself && Single responsibility principle)
 
 6. RequireJS
 
