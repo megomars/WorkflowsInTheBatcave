@@ -4,7 +4,7 @@ Javascript frameworks in the Batcave
 
 It's time to take the next step in front end workflows. In the following writeup I hope to explain the general landscape of front end development tools.
 
-1. Git
+1. Git - Here's a dedicated repo for git  [https://github.com/megomars/GithubInTheBatcave](https://github.com/megomars/GithubInTheBatcave)
   * __Git init__
   * __Git config --global user.name || git config --global user.email__ || git config --global color.ui true || git log --pretty=oneline || git log --pretty=format:"%h %ad- %s [%an]" || git log --oneline -p || git log --oneline --stat || git log --oneline --graph || git config --list
   * __Git status__
